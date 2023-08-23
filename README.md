@@ -1,1 +1,1 @@
-# 8am_cloning_project
+This is the 8am Project
